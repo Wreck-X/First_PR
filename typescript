@@ -1735,4 +1735,51 @@ Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3
 Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
 To https://github.com/Wreck-X/First_PR
-   684541
+   6845418..8b38c4e  main -> main
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ ls
+[?2004lpackage-lock.json  package.json  script.js  typescript	your-cards
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ git[K[K[Krem -[K[K[K[K[Kg[Knon[Kde -i
+[?2004lWelcome to Node.js v20.6.1.
+Type ".help" for more information.
+[1G[0J> [3G
+(To exit, press Ctrl+C again or Ctrl+D or type .exit)
+[1G[0J> [3G:[1G[0J> [3G
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ node install
+[?2004lnode:internal/modules/cjs/loader:1051
+  throw err;
+  ^
+
+Error: Cannot find module '/home/Wreck/Desktop/amFOSS/random/hacktober-repos/First_PR/install'
+[90m    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:901:27)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: []
+}
+
+Node.js v20.6.1
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ npm i
+[?2004l[?25l([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 49ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠦ reify:accepts: [7msill[0m [35maudit[0m bulk request {[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠦ reify:accepts: [7msill[0m [35maudit[0m bulk request {[0m[K([107;97m################[0m[100;90m⠂⠂[0m) ⠏ reify:ipaddr.js: [32;40mtiming[0m [35mreifyNode:node_modules/depd[0m Completed in 155ms[0m[K([107;97m##################[0m) ⠼ reify:iconv-lite: [32;40mtiming[0m [35mreifyNode:node_modules/object-inspect[0m Completed in 172ms[0m[K([107;97m##################[0m) ⠼ reify:iconv-lite: [32;40mtiming[0m [35mreifyNode:node_modules/object-inspect[0m Completed in 172ms[0m[K([107;97m##################[0m) ⠼ reify:iconv-lite: [32;40mtiming[0m [35mreifyNode:node_modules/object-inspect[0m Completed in 172ms[0m[K([107;97m##################[0m) ⠼ reify:iconv-lite: [32;40mtiming[0m [35mreifyNode:node_modules/object-inspect[0m Completed in 172ms[0m[K([107;97m##################[0m) ⠼ reify:iconv-lite: [32;40mtiming[0m [35mreifyNode:node_modules/object-inspect[0m Completed in 172ms[0m[K[K[?25h
+added 58 packages, and audited 59 packages in 707ms
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ ls
+[?2004lnode_modules  package-lock.json  package.json  script.js  typescript  your-cards
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ git add .
+[?2004l]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ l[Kls[K[Kgit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   typescript[m
+
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ test[K[K[K[Kfi[K[Kgit push origin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcommit -[K[K[K[K[K[K[K[Kgit commit -[K0m[K[K-m "teest[K[K[Ksting git)[King[K[Kgn[Kg[Knore"
+[?2004l[main 6e4d401] testing gitignore
+ 1 file changed, 461 insertions(+), 1 deletion(-)
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ git push origin main
+[?2004lEnumerating objects: 5, do
