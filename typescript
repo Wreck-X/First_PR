@@ -1275,4 +1275,464 @@ To https://github.com/Wreck-X/First_PR
 ~[K
 ~[K
 (B[m[38;2;144;140;170m[48;2;31;29;46m[No Name] [RO]                                                                                                                   8,1            All(B[m
-[J[8;3H[?25h[?25l[34;137Hk         [8;3H[?25h[?25l[34;137H [7;3H[3m[38;2;110;106;134m[48;2;33;32;46m" ==============================================================================(B[m[48;2;33;32;46m                                                                 [8;3H(B[m[38;2;156;207;216m..(B[m[38;2;235;188;186m/(B[m                                                                            [48;2;38;35;58m (B[m[K[33;130H[38;2;144;140;170m[48;2;31;29;46m7[7;3H[?25h[?25l[34;137H(B[mj[7;3H[?25h[?25l[34;137H [7;3H[3m[38;2;110;106;134m" =============================================================================(B[m[3m[38;2;110;106;134m[48;2;38;35;58m=(B[m[K[8;3H[38;2;156;207;216m[48;2;33;32;46m..(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                            (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;130H(B[m[38;2;144;140;170m[48;2;31;29;46m8[8;3H[?25h[?25l[34;137H(B[mj[8;3H[?25h[?25l[34;137H [8;3H[38;2;156;207;216m..(B[m[38;2;235;188;186m/(B[m                                                                            [48;2;38;35;58m (B[m[K[9;3H[38;2;156;207;216m[48;2;33;32;46m.(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                             (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;130H(B[m[38;2;144;140;170m[48;2;31;29;46m9[9;3H[?25h[?25l[34;137H(B[mj[9;3H[?25h[?25l[34;137H [9;3H[38;2;156;207;216m.(B[m[38;2;235;188;186m/(B[m                                                                             [48;2;38;35;58m (B[m[K[10;3H[38;2;156;207;216m[48;2;33;32;46m.git(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                          (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m      
+[J[8;3H[?25h[?25l[34;137Hk         [8;3H[?25h[?25l[34;137H [7;3H[3m[38;2;110;106;134m[48;2;33;32;46m" ==============================================================================(B[m[48;2;33;32;46m                                                                 [8;3H(B[m[38;2;156;207;216m..(B[m[38;2;235;188;186m/(B[m                                                                            [48;2;38;35;58m (B[m[K[33;130H[38;2;144;140;170m[48;2;31;29;46m7[7;3H[?25h[?25l[34;137H(B[mj[7;3H[?25h[?25l[34;137H [7;3H[3m[38;2;110;106;134m" =============================================================================(B[m[3m[38;2;110;106;134m[48;2;38;35;58m=(B[m[K[8;3H[38;2;156;207;216m[48;2;33;32;46m..(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                            (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;130H(B[m[38;2;144;140;170m[48;2;31;29;46m8[8;3H[?25h[?25l[34;137H(B[mj[8;3H[?25h[?25l[34;137H [8;3H[38;2;156;207;216m..(B[m[38;2;235;188;186m/(B[m                                                                            [48;2;38;35;58m (B[m[K[9;3H[38;2;156;207;216m[48;2;33;32;46m.(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                             (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;130H(B[m[38;2;144;140;170m[48;2;31;29;46m9[9;3H[?25h[?25l[34;137H(B[mj[9;3H[?25h[?25l[34;137H [9;3H[38;2;156;207;216m.(B[m[38;2;235;188;186m/(B[m                                                                             [48;2;38;35;58m (B[m[K[10;3H[38;2;156;207;216m[48;2;33;32;46m.git(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                          (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;130H(B[m[38;2;144;140;170m[48;2;31;29;46m10,1[10;3H[?25h[?25l[34;137H(B[mj[10;3H[?25h[?25l[34;137H [10;3H[38;2;156;207;216m.git(B[m[38;2;235;188;186m/(B[m                                                                          [48;2;38;35;58m (B[m[K[11;3H[38;2;156;207;216m[48;2;33;32;46myour-cards(B[m[38;2;235;188;186m[48;2;33;32;46m/(B[m[48;2;33;32;46m                                                                    (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;131H(B[m[38;2;144;140;170m[48;2;31;29;46m1[11;3H[?25h[?25l[34;137H(B[mj[11;3H[?25h[?25l[34;137H [11;3H[38;2;156;207;216myour-cards(B[m[38;2;235;188;186m/(B[m                                                                    [48;2;38;35;58m (B[m[K[12;3H[48;2;33;32;46m.gitignore                                                                     (B[m[48;2;38;35;58m (B[m[48;2;33;32;46m                                                                 [33;131H(B[m[38;2;144;140;170m[48;2;31;29;46m2[12;3H[?25h[?25l[11A(B[m[38;2;110;106;134m1   (B[m                                                                               [48;2;38;35;58m 
+(B[m[38;2;110;106;134m~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K
+~[K[17B(B[m[38;2;144;140;170m[48;2;31;29;46m~/Desktop/amFOSS/random/hacktober-repos/First_PR/.gitignore[70C0,0-1]112[2 q[1;7H[?25h[?25l[33B(B[m[nvim-treesitter] [0/1] Downloading tree-sitter-gitignore...[K[1;7H[?25h[?25lnode_modules[38;2;144;140;170m/[33;61H(B[m[38;2;144;140;170m[48;2;31;29;46m[+][66C1,13 [?25h[?25l[1;19H[?25h[?25l[34;25H(B[mCreating temporary directory[8X[1;19H[?25h[?25l[34;25HExtracting tree-sitter-gitignore...[1;19H[?25h[?25l[34;25HCompiling...[23X[1;19H[?25h[?25l[38;2;110;106;134m/[?25h[?25l[34;20H(B[m1/1] Treesitter parser for gitignore has been installed[1;19H[?25h[?25l[34;137H^[[1;19H[?25h[?25l[34;137H  [1;19H[?25h[?25l[34;137H:[1;19H[?25h[?25l[33B[137X:]112[2 q[?1002l[?1006l[?25h[?25lw[?25h[?25l[34;1H[?25h[?25l"~/Desktop/amFOSS/random/hacktober-repos/First_PR/.gitignore"]112[2 q[?1002h[?1006h[?25h[?25l[C1L, 14B written[38;2;144;140;170m[48;2;31;29;46m[33;61H   [1;19H[?25h[?25l[34;137H(B[m:[1;19H[?25h[?25l[33B[137X:]112[2 q[?1002l[?1006l[?25h[?25lq[?25h[?25l[34;1H[?25h[?25l]112[2 q[?1002h[?1006h[?25h[?25l]112[2 q[?1002l[?1006l(B[m[?25h[?1l>[>4;0m[?1049l[23;0;0t[?2004l[?1004l[?25h]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ git add[K[K[K-[Kpu[K[Kadd .
+[?2004l]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ git p[Kcommit -m "[K"removing [K node-modules"
+[?2004l[main 8b38c4e] removing node-modules
+ 433 files changed, 546 insertions(+), 61653 deletions(-)
+ create mode 100644 .gitignore
+ delete mode 120000 node_modules/.bin/mime
+ delete mode 100644 node_modules/.package-lock.json
+ delete mode 100644 node_modules/accepts/HISTORY.md
+ delete mode 100644 node_modules/accepts/LICENSE
+ delete mode 100644 node_modules/accepts/README.md
+ delete mode 100644 node_modules/accepts/index.js
+ delete mode 100644 node_modules/accepts/package.json
+ delete mode 100644 node_modules/array-flatten/LICENSE
+ delete mode 100644 node_modules/array-flatten/README.md
+ delete mode 100644 node_modules/array-flatten/array-flatten.js
+ delete mode 100644 node_modules/array-flatten/package.json
+ delete mode 100644 node_modules/body-parser/HISTORY.md
+ delete mode 100644 node_modules/body-parser/LICENSE
+ delete mode 100644 node_modules/body-parser/README.md
+ delete mode 100644 node_modules/body-parser/SECURITY.md
+ delete mode 100644 node_modules/body-parser/index.js
+ delete mode 100644 node_modules/body-parser/lib/read.js
+ delete mode 100644 node_modules/body-parser/lib/types/json.js
+ delete mode 100644 node_modules/body-parser/lib/types/raw.js
+ delete mode 100644 node_modules/body-parser/lib/types/text.js
+ delete mode 100644 node_modules/body-parser/lib/types/urlencoded.js
+ delete mode 100644 node_modules/body-parser/package.json
+ delete mode 100644 node_modules/bytes/History.md
+ delete mode 100644 node_modules/bytes/LICENSE
+ delete mode 100644 node_modules/bytes/Readme.md
+ delete mode 100644 node_modules/bytes/index.js
+ delete mode 100644 node_modules/bytes/package.json
+ delete mode 100644 node_modules/call-bind/.eslintignore
+ delete mode 100644 node_modules/call-bind/.eslintrc
+ delete mode 100644 node_modules/call-bind/.github/FUNDING.yml
+ delete mode 100644 node_modules/call-bind/.nycrc
+ delete mode 100644 node_modules/call-bind/CHANGELOG.md
+ delete mode 100644 node_modules/call-bind/LICENSE
+ delete mode 100644 node_modules/call-bind/README.md
+ delete mode 100644 node_modules/call-bind/callBound.js
+ delete mode 100644 node_modules/call-bind/index.js
+ delete mode 100644 node_modules/call-bind/package.json
+ delete mode 100644 node_modules/call-bind/test/callBound.js
+ delete mode 100644 node_modules/call-bind/test/index.js
+ delete mode 100644 node_modules/content-disposition/HISTORY.md
+ delete mode 100644 node_modules/content-disposition/LICENSE
+ delete mode 100644 node_modules/content-disposition/README.md
+ delete mode 100644 node_modules/content-disposition/index.js
+ delete mode 100644 node_modules/content-disposition/package.json
+ delete mode 100644 node_modules/content-type/HISTORY.md
+ delete mode 100644 node_modules/content-type/LICENSE
+ delete mode 100644 node_modules/content-type/README.md
+ delete mode 100644 node_modules/content-type/index.js
+ delete mode 100644 node_modules/content-type/package.json
+ delete mode 100644 node_modules/cookie-signature/.npmignore
+ delete mode 100644 node_modules/cookie-signature/History.md
+ delete mode 100644 node_modules/cookie-signature/Readme.md
+ delete mode 100644 node_modules/cookie-signature/index.js
+ delete mode 100644 node_modules/cookie-signature/package.json
+ delete mode 100644 node_modules/cookie/HISTORY.md
+ delete mode 100644 node_modules/cookie/LICENSE
+ delete mode 100644 node_modules/cookie/README.md
+ delete mode 100644 node_modules/cookie/SECURITY.md
+ delete mode 100644 node_modules/cookie/index.js
+ delete mode 100644 node_modules/cookie/package.json
+ delete mode 100644 node_modules/debug/.coveralls.yml
+ delete mode 100644 node_modules/debug/.eslintrc
+ delete mode 100644 node_modules/debug/.npmignore
+ delete mode 100644 node_modules/debug/.travis.yml
+ delete mode 100644 node_modules/debug/CHANGELOG.md
+ delete mode 100644 node_modules/debug/LICENSE
+ delete mode 100644 node_modules/debug/Makefile
+ delete mode 100644 node_modules/debug/README.md
+ delete mode 100644 node_modules/debug/component.json
+ delete mode 100644 node_modules/debug/karma.conf.js
+ delete mode 100644 node_modules/debug/node.js
+ delete mode 100644 node_modules/debug/package.json
+ delete mode 100644 node_modules/debug/src/browser.js
+ delete mode 100644 node_modules/debug/src/debug.js
+ delete mode 100644 node_modules/debug/src/index.js
+ delete mode 100644 node_modules/debug/src/inspector-log.js
+ delete mode 100644 node_modules/debug/src/node.js
+ delete mode 100644 node_modules/depd/History.md
+ delete mode 100644 node_modules/depd/LICENSE
+ delete mode 100644 node_modules/depd/Readme.md
+ delete mode 100644 node_modules/depd/index.js
+ delete mode 100644 node_modules/depd/lib/browser/index.js
+ delete mode 100644 node_modules/depd/package.json
+ delete mode 100644 node_modules/destroy/LICENSE
+ delete mode 100644 node_modules/destroy/README.md
+ delete mode 100644 node_modules/destroy/index.js
+ delete mode 100644 node_modules/destroy/package.json
+ delete mode 100644 node_modules/ee-first/LICENSE
+ delete mode 100644 node_modules/ee-first/README.md
+ delete mode 100644 node_modules/ee-first/index.js
+ delete mode 100644 node_modules/ee-first/package.json
+ delete mode 100644 node_modules/encodeurl/HISTORY.md
+ delete mode 100644 node_modules/encodeurl/LICENSE
+ delete mode 100644 node_modules/encodeurl/README.md
+ delete mode 100644 node_modules/encodeurl/index.js
+ delete mode 100644 node_modules/encodeurl/package.json
+ delete mode 100644 node_modules/escape-html/LICENSE
+ delete mode 100644 node_modules/escape-html/Readme.md
+ delete mode 100644 node_modules/escape-html/index.js
+ delete mode 100644 node_modules/escape-html/package.json
+ delete mode 100644 node_modules/etag/HISTORY.md
+ delete mode 100644 node_modules/etag/LICENSE
+ delete mode 100644 node_modules/etag/README.md
+ delete mode 100644 node_modules/etag/index.js
+ delete mode 100644 node_modules/etag/package.json
+ delete mode 100644 node_modules/express/History.md
+ delete mode 100644 node_modules/express/LICENSE
+ delete mode 100644 node_modules/express/Readme.md
+ delete mode 100644 node_modules/express/index.js
+ delete mode 100644 node_modules/express/lib/application.js
+ delete mode 100644 node_modules/express/lib/express.js
+ delete mode 100644 node_modules/express/lib/middleware/init.js
+ delete mode 100644 node_modules/express/lib/middleware/query.js
+ delete mode 100644 node_modules/express/lib/request.js
+ delete mode 100644 node_modules/express/lib/response.js
+ delete mode 100644 node_modules/express/lib/router/index.js
+ delete mode 100644 node_modules/express/lib/router/layer.js
+ delete mode 100644 node_modules/express/lib/router/route.js
+ delete mode 100644 node_modules/express/lib/utils.js
+ delete mode 100644 node_modules/express/lib/view.js
+ delete mode 100644 node_modules/express/package.json
+ delete mode 100644 node_modules/finalhandler/HISTORY.md
+ delete mode 100644 node_modules/finalhandler/LICENSE
+ delete mode 100644 node_modules/finalhandler/README.md
+ delete mode 100644 node_modules/finalhandler/SECURITY.md
+ delete mode 100644 node_modules/finalhandler/index.js
+ delete mode 100644 node_modules/finalhandler/package.json
+ delete mode 100644 node_modules/forwarded/HISTORY.md
+ delete mode 100644 node_modules/forwarded/LICENSE
+ delete mode 100644 node_modules/forwarded/README.md
+ delete mode 100644 node_modules/forwarded/index.js
+ delete mode 100644 node_modules/forwarded/package.json
+ delete mode 100644 node_modules/fresh/HISTORY.md
+ delete mode 100644 node_modules/fresh/LICENSE
+ delete mode 100644 node_modules/fresh/README.md
+ delete mode 100644 node_modules/fresh/index.js
+ delete mode 100644 node_modules/fresh/package.json
+ delete mode 100644 node_modules/function-bind/.editorconfig
+ delete mode 100644 node_modules/function-bind/.eslintrc
+ delete mode 100644 node_modules/function-bind/.jscs.json
+ delete mode 100644 node_modules/function-bind/.npmignore
+ delete mode 100644 node_modules/function-bind/.travis.yml
+ delete mode 100644 node_modules/function-bind/LICENSE
+ delete mode 100644 node_modules/function-bind/README.md
+ delete mode 100644 node_modules/function-bind/implementation.js
+ delete mode 100644 node_modules/function-bind/index.js
+ delete mode 100644 node_modules/function-bind/package.json
+ delete mode 100644 node_modules/function-bind/test/.eslintrc
+ delete mode 100644 node_modules/function-bind/test/index.js
+ delete mode 100644 node_modules/get-intrinsic/.eslintrc
+ delete mode 100644 node_modules/get-intrinsic/.github/FUNDING.yml
+ delete mode 100644 node_modules/get-intrinsic/.nycrc
+ delete mode 100644 node_modules/get-intrinsic/CHANGELOG.md
+ delete mode 100644 node_modules/get-intrinsic/LICENSE
+ delete mode 100644 node_modules/get-intrinsic/README.md
+ delete mode 100644 node_modules/get-intrinsic/index.js
+ delete mode 100644 node_modules/get-intrinsic/package.json
+ delete mode 100644 node_modules/get-intrinsic/test/GetIntrinsic.js
+ delete mode 100644 node_modules/has-proto/.eslintrc
+ delete mode 100644 node_modules/has-proto/.github/FUNDING.yml
+ delete mode 100644 node_modules/has-proto/CHANGELOG.md
+ delete mode 100644 node_modules/has-proto/LICENSE
+ delete mode 100644 node_modules/has-proto/README.md
+ delete mode 100644 node_modules/has-proto/index.js
+ delete mode 100644 node_modules/has-proto/package.json
+ delete mode 100644 node_modules/has-proto/test/index.js
+ delete mode 100644 node_modules/has-symbols/.eslintrc
+ delete mode 100644 node_modules/has-symbols/.github/FUNDING.yml
+ delete mode 100644 node_modules/has-symbols/.nycrc
+ delete mode 100644 node_modules/has-symbols/CHANGELOG.md
+ delete mode 100644 node_modules/has-symbols/LICENSE
+ delete mode 100644 node_modules/has-symbols/README.md
+ delete mode 100644 node_modules/has-symbols/index.js
+ delete mode 100644 node_modules/has-symbols/package.json
+ delete mode 100644 node_modules/has-symbols/shams.js
+ delete mode 100644 node_modules/has-symbols/test/index.js
+ delete mode 100644 node_modules/has-symbols/test/shams/core-js.js
+ delete mode 100644 node_modules/has-symbols/test/shams/get-own-property-symbols.js
+ delete mode 100644 node_modules/has-symbols/test/tests.js
+ delete mode 100644 node_modules/has/LICENSE-MIT
+ delete mode 100644 node_modules/has/README.md
+ delete mode 100644 node_modules/has/package.json
+ delete mode 100644 node_modules/has/src/index.js
+ delete mode 100644 node_modules/has/test/index.js
+ delete mode 100644 node_modules/http-errors/HISTORY.md
+ delete mode 100644 node_modules/http-errors/LICENSE
+ delete mode 100644 node_modules/http-errors/README.md
+ delete mode 100644 node_modules/http-errors/index.js
+ delete mode 100644 node_modules/http-errors/package.json
+ delete mode 100644 node_modules/iconv-lite/Changelog.md
+ delete mode 100644 node_modules/iconv-lite/LICENSE
+ delete mode 100644 node_modules/iconv-lite/README.md
+ delete mode 100644 node_modules/iconv-lite/encodings/dbcs-codec.js
+ delete mode 100644 node_modules/iconv-lite/encodings/dbcs-data.js
+ delete mode 100644 node_modules/iconv-lite/encodings/index.js
+ delete mode 100644 node_modules/iconv-lite/encodings/internal.js
+ delete mode 100644 node_modules/iconv-lite/encodings/sbcs-codec.js
+ delete mode 100644 node_modules/iconv-lite/encodings/sbcs-data-generated.js
+ delete mode 100644 node_modules/iconv-lite/encodings/sbcs-data.js
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/big5-added.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/cp936.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/cp949.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/cp950.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/eucjp.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/gbk-added.json
+ delete mode 100644 node_modules/iconv-lite/encodings/tables/shiftjis.json
+ delete mode 100644 node_modules/iconv-lite/encodings/utf16.js
+ delete mode 100644 node_modules/iconv-lite/encodings/utf7.js
+ delete mode 100644 node_modules/iconv-lite/lib/bom-handling.js
+ delete mode 100644 node_modules/iconv-lite/lib/extend-node.js
+ delete mode 100644 node_modules/iconv-lite/lib/index.d.ts
+ delete mode 100644 node_modules/iconv-lite/lib/index.js
+ delete mode 100644 node_modules/iconv-lite/lib/streams.js
+ delete mode 100644 node_modules/iconv-lite/package.json
+ delete mode 100644 node_modules/inherits/LICENSE
+ delete mode 100644 node_modules/inherits/README.md
+ delete mode 100644 node_modules/inherits/inherits.js
+ delete mode 100644 node_modules/inherits/inherits_browser.js
+ delete mode 100644 node_modules/inherits/package.json
+ delete mode 100644 node_modules/ipaddr.js/LICENSE
+ delete mode 100644 node_modules/ipaddr.js/README.md
+ delete mode 100644 node_modules/ipaddr.js/ipaddr.min.js
+ delete mode 100644 node_modules/ipaddr.js/lib/ipaddr.js
+ delete mode 100644 node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+ delete mode 100644 node_modules/ipaddr.js/package.json
+ delete mode 100644 node_modules/media-typer/HISTORY.md
+ delete mode 100644 node_modules/media-typer/LICENSE
+ delete mode 100644 node_modules/media-typer/README.md
+ delete mode 100644 node_modules/media-typer/index.js
+ delete mode 100644 node_modules/media-typer/package.json
+ delete mode 100644 node_modules/merge-descriptors/HISTORY.md
+ delete mode 100644 node_modules/merge-descriptors/LICENSE
+ delete mode 100644 node_modules/merge-descriptors/README.md
+ delete mode 100644 node_modules/merge-descriptors/index.js
+ delete mode 100644 node_modules/merge-descriptors/package.json
+ delete mode 100644 node_modules/methods/HISTORY.md
+ delete mode 100644 node_modules/methods/LICENSE
+ delete mode 100644 node_modules/methods/README.md
+ delete mode 100644 node_modules/methods/index.js
+ delete mode 100644 node_modules/methods/package.json
+ delete mode 100644 node_modules/mime-db/HISTORY.md
+ delete mode 100644 node_modules/mime-db/LICENSE
+ delete mode 100644 node_modules/mime-db/README.md
+ delete mode 100644 node_modules/mime-db/db.json
+ delete mode 100644 node_modules/mime-db/index.js
+ delete mode 100644 node_modules/mime-db/package.json
+ delete mode 100644 node_modules/mime-types/HISTORY.md
+ delete mode 100644 node_modules/mime-types/LICENSE
+ delete mode 100644 node_modules/mime-types/README.md
+ delete mode 100644 node_modules/mime-types/index.js
+ delete mode 100644 node_modules/mime-types/package.json
+ delete mode 100644 node_modules/mime/.npmignore
+ delete mode 100644 node_modules/mime/CHANGELOG.md
+ delete mode 100644 node_modules/mime/LICENSE
+ delete mode 100644 node_modules/mime/README.md
+ delete mode 100755 node_modules/mime/cli.js
+ delete mode 100644 node_modules/mime/mime.js
+ delete mode 100644 node_modules/mime/package.json
+ delete mode 100755 node_modules/mime/src/build.js
+ delete mode 100644 node_modules/mime/src/test.js
+ delete mode 100644 node_modules/mime/types.json
+ delete mode 100644 node_modules/ms/index.js
+ delete mode 100644 node_modules/ms/license.md
+ delete mode 100644 node_modules/ms/package.json
+ delete mode 100644 node_modules/ms/readme.md
+ delete mode 100644 node_modules/negotiator/HISTORY.md
+ delete mode 100644 node_modules/negotiator/LICENSE
+ delete mode 100644 node_modules/negotiator/README.md
+ delete mode 100644 node_modules/negotiator/index.js
+ delete mode 100644 node_modules/negotiator/lib/charset.js
+ delete mode 100644 node_modules/negotiator/lib/encoding.js
+ delete mode 100644 node_modules/negotiator/lib/language.js
+ delete mode 100644 node_modules/negotiator/lib/mediaType.js
+ delete mode 100644 node_modules/negotiator/package.json
+ delete mode 100644 node_modules/object-inspect/.eslintrc
+ delete mode 100644 node_modules/object-inspect/.github/FUNDING.yml
+ delete mode 100644 node_modules/object-inspect/.nycrc
+ delete mode 100644 node_modules/object-inspect/CHANGELOG.md
+ delete mode 100644 node_modules/object-inspect/LICENSE
+ delete mode 100644 node_modules/object-inspect/example/all.js
+ delete mode 100644 node_modules/object-inspect/example/circular.js
+ delete mode 100644 node_modules/object-inspect/example/fn.js
+ delete mode 100644 node_modules/object-inspect/example/inspect.js
+ delete mode 100644 node_modules/object-inspect/index.js
+ delete mode 100644 node_modules/object-inspect/package-support.json
+ delete mode 100644 node_modules/object-inspect/package.json
+ delete mode 100644 node_modules/object-inspect/readme.markdown
+ delete mode 100644 node_modules/object-inspect/test-core-js.js
+ delete mode 100644 node_modules/object-inspect/test/bigint.js
+ delete mode 100644 node_modules/object-inspect/test/browser/dom.js
+ delete mode 100644 node_modules/object-inspect/test/circular.js
+ delete mode 100644 node_modules/object-inspect/test/deep.js
+ delete mode 100644 node_modules/object-inspect/test/element.js
+ delete mode 100644 node_modules/object-inspect/test/err.js
+ delete mode 100644 node_modules/object-inspect/test/fakes.js
+ delete mode 100644 node_modules/object-inspect/test/fn.js
+ delete mode 100644 node_modules/object-inspect/test/has.js
+ delete mode 100644 node_modules/object-inspect/test/holes.js
+ delete mode 100644 node_modules/object-inspect/test/indent-option.js
+ delete mode 100644 node_modules/object-inspect/test/inspect.js
+ delete mode 100644 node_modules/object-inspect/test/lowbyte.js
+ delete mode 100644 node_modules/object-inspect/test/number.js
+ delete mode 100644 node_modules/object-inspect/test/quoteStyle.js
+ delete mode 100644 node_modules/object-inspect/test/toStringTag.js
+ delete mode 100644 node_modules/object-inspect/test/undef.js
+ delete mode 100644 node_modules/object-inspect/test/values.js
+ delete mode 100644 node_modules/object-inspect/util.inspect.js
+ delete mode 100644 node_modules/on-finished/HISTORY.md
+ delete mode 100644 node_modules/on-finished/LICENSE
+ delete mode 100644 node_modules/on-finished/README.md
+ delete mode 100644 node_modules/on-finished/index.js
+ delete mode 100644 node_modules/on-finished/package.json
+ delete mode 100644 node_modules/parseurl/HISTORY.md
+ delete mode 100644 node_modules/parseurl/LICENSE
+ delete mode 100644 node_modules/parseurl/README.md
+ delete mode 100644 node_modules/parseurl/index.js
+ delete mode 100644 node_modules/parseurl/package.json
+ delete mode 100644 node_modules/path-to-regexp/History.md
+ delete mode 100644 node_modules/path-to-regexp/LICENSE
+ delete mode 100644 node_modules/path-to-regexp/Readme.md
+ delete mode 100644 node_modules/path-to-regexp/index.js
+ delete mode 100644 node_modules/path-to-regexp/package.json
+ delete mode 100644 node_modules/proxy-addr/HISTORY.md
+ delete mode 100644 node_modules/proxy-addr/LICENSE
+ delete mode 100644 node_modules/proxy-addr/README.md
+ delete mode 100644 node_modules/proxy-addr/index.js
+ delete mode 100644 node_modules/proxy-addr/package.json
+ delete mode 100644 node_modules/qs/.editorconfig
+ delete mode 100644 node_modules/qs/.eslintrc
+ delete mode 100644 node_modules/qs/.github/FUNDING.yml
+ delete mode 100644 node_modules/qs/.nycrc
+ delete mode 100644 node_modules/qs/CHANGELOG.md
+ delete mode 100644 node_modules/qs/LICENSE.md
+ delete mode 100644 node_modules/qs/README.md
+ delete mode 100644 node_modules/qs/dist/qs.js
+ delete mode 100644 node_modules/qs/lib/formats.js
+ delete mode 100644 node_modules/qs/lib/index.js
+ delete mode 100644 node_modules/qs/lib/parse.js
+ delete mode 100644 node_modules/qs/lib/stringify.js
+ delete mode 100644 node_modules/qs/lib/utils.js
+ delete mode 100644 node_modules/qs/package.json
+ delete mode 100644 node_modules/qs/test/parse.js
+ delete mode 100644 node_modules/qs/test/stringify.js
+ delete mode 100644 node_modules/qs/test/utils.js
+ delete mode 100644 node_modules/range-parser/HISTORY.md
+ delete mode 100644 node_modules/range-parser/LICENSE
+ delete mode 100644 node_modules/range-parser/README.md
+ delete mode 100644 node_modules/range-parser/index.js
+ delete mode 100644 node_modules/range-parser/package.json
+ delete mode 100644 node_modules/raw-body/HISTORY.md
+ delete mode 100644 node_modules/raw-body/LICENSE
+ delete mode 100644 node_modules/raw-body/README.md
+ delete mode 100644 node_modules/raw-body/SECURITY.md
+ delete mode 100644 node_modules/raw-body/index.d.ts
+ delete mode 100644 node_modules/raw-body/index.js
+ delete mode 100644 node_modules/raw-body/package.json
+ delete mode 100644 node_modules/safe-buffer/LICENSE
+ delete mode 100644 node_modules/safe-buffer/README.md
+ delete mode 100644 node_modules/safe-buffer/index.d.ts
+ delete mode 100644 node_modules/safe-buffer/index.js
+ delete mode 100644 node_modules/safe-buffer/package.json
+ delete mode 100644 node_modules/safer-buffer/LICENSE
+ delete mode 100644 node_modules/safer-buffer/Porting-Buffer.md
+ delete mode 100644 node_modules/safer-buffer/Readme.md
+ delete mode 100644 node_modules/safer-buffer/dangerous.js
+ delete mode 100644 node_modules/safer-buffer/package.json
+ delete mode 100644 node_modules/safer-buffer/safer.js
+ delete mode 100644 node_modules/safer-buffer/tests.js
+ delete mode 100644 node_modules/send/HISTORY.md
+ delete mode 100644 node_modules/send/LICENSE
+ delete mode 100644 node_modules/send/README.md
+ delete mode 100644 node_modules/send/SECURITY.md
+ delete mode 100644 node_modules/send/index.js
+ delete mode 100644 node_modules/send/node_modules/ms/index.js
+ delete mode 100644 node_modules/send/node_modules/ms/license.md
+ delete mode 100644 node_modules/send/node_modules/ms/package.json
+ delete mode 100644 node_modules/send/node_modules/ms/readme.md
+ delete mode 100644 node_modules/send/package.json
+ delete mode 100644 node_modules/serve-static/HISTORY.md
+ delete mode 100644 node_modules/serve-static/LICENSE
+ delete mode 100644 node_modules/serve-static/README.md
+ delete mode 100644 node_modules/serve-static/index.js
+ delete mode 100644 node_modules/serve-static/package.json
+ delete mode 100644 node_modules/setprototypeof/LICENSE
+ delete mode 100644 node_modules/setprototypeof/README.md
+ delete mode 100644 node_modules/setprototypeof/index.d.ts
+ delete mode 100644 node_modules/setprototypeof/index.js
+ delete mode 100644 node_modules/setprototypeof/package.json
+ delete mode 100644 node_modules/setprototypeof/test/index.js
+ delete mode 100644 node_modules/side-channel/.eslintignore
+ delete mode 100644 node_modules/side-channel/.eslintrc
+ delete mode 100644 node_modules/side-channel/.github/FUNDING.yml
+ delete mode 100644 node_modules/side-channel/.nycrc
+ delete mode 100644 node_modules/side-channel/CHANGELOG.md
+ delete mode 100644 node_modules/side-channel/LICENSE
+ delete mode 100644 node_modules/side-channel/README.md
+ delete mode 100644 node_modules/side-channel/index.js
+ delete mode 100644 node_modules/side-channel/package.json
+ delete mode 100644 node_modules/side-channel/test/index.js
+ delete mode 100644 node_modules/statuses/HISTORY.md
+ delete mode 100644 node_modules/statuses/LICENSE
+ delete mode 100644 node_modules/statuses/README.md
+ delete mode 100644 node_modules/statuses/codes.json
+ delete mode 100644 node_modules/statuses/index.js
+ delete mode 100644 node_modules/statuses/package.json
+ delete mode 100644 node_modules/toidentifier/HISTORY.md
+ delete mode 100644 node_modules/toidentifier/LICENSE
+ delete mode 100644 node_modules/toidentifier/README.md
+ delete mode 100644 node_modules/toidentifier/index.js
+ delete mode 100644 node_modules/toidentifier/package.json
+ delete mode 100644 node_modules/type-is/HISTORY.md
+ delete mode 100644 node_modules/type-is/LICENSE
+ delete mode 100644 node_modules/type-is/README.md
+ delete mode 100644 node_modules/type-is/index.js
+ delete mode 100644 node_modules/type-is/package.json
+ delete mode 100644 node_modules/unpipe/HISTORY.md
+ delete mode 100644 node_modules/unpipe/LICENSE
+ delete mode 100644 node_modules/unpipe/README.md
+ delete mode 100644 node_modules/unpipe/index.js
+ delete mode 100644 node_modules/unpipe/package.json
+ delete mode 100644 node_modules/utils-merge/.npmignore
+ delete mode 100644 node_modules/utils-merge/LICENSE
+ delete mode 100644 node_modules/utils-merge/README.md
+ delete mode 100644 node_modules/utils-merge/index.js
+ delete mode 100644 node_modules/utils-merge/package.json
+ delete mode 100644 node_modules/vary/HISTORY.md
+ delete mode 100644 node_modules/vary/LICENSE
+ delete mode 100644 node_modules/vary/README.md
+ delete mode 100644 node_modules/vary/index.js
+ delete mode 100644 node_modules/vary/package.json
+]0;Wreck@archlinux:~/Desktop/amFOSS/random/hacktober-repos/First_PR[?2004h[Wreck@archlinux First_PR]$ i[Kgit push origin main
+[?2004lEnumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 16 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 6.53 KiB | 836.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/Wreck-X/First_PR
+   684541
