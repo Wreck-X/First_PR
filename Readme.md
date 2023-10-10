@@ -7,7 +7,7 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
 
 1.Fork this repository to your account by clicking the Fork button on this repo.
 
-![alt text](./assets/screenshot.png)
+![alt text](./assets/fork.png)
 
 2.You now have this repo in your github account. You must be able to see it in ```github.com/your-github-username/hacktoberfest-2023``` you can clone the repository.
 
