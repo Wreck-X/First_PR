@@ -32,7 +32,7 @@ Begin your Open Source Journey as a contributor by learning to make Pull Request
 
 8.You are almost done! Now head over to the original repository from which you forked and click on Pull Requests
 
-![alt text](./assets/PR.png)
+![alt text](./assets/PR2.png)
 
 9.From here, I'll leave you on your own. Make a stunning PR using this flashy green button
 
