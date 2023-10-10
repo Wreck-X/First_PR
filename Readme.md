@@ -1,1 +1,1 @@
-![alt text](image_path)
+![alt text](./assets/poster.png)
